@@ -20,3 +20,12 @@ h2{
 .close-modal{
 	
 }
+.modal-header {
+  position: relative;
+  /* other styles */
+}
+.close-modal-button {
+  position: absolute;
+  right: 10px;
+  /* other styles */
+}

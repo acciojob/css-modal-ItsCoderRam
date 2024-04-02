@@ -1,1 +1,22 @@
 /*  your css code here. If applicable */
+.modal{
+   	display:none;
+	/* display:flex; */
+	align-items:center;
+	justify-content:center;
+	/* text-align:center; */
+}
+.modal-content{
+	background:whitesmoke;
+	width:550px;
+	height:150px;
+	
+}
+h2{
+	background:seagreen;
+	line-height:1.6;
+	text-align:center;
+}
+.close-modal{
+	
+}

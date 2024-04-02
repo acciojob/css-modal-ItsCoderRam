@@ -11,7 +11,7 @@ window.onclick = function(event) {
     modal.style.display = "none";
   }
 }
-let closeModel = document.getElementsByClassName("close-modal-button");
+let closeModel = document.getElementsByClassName("close-modal");
 closeModel[0].addEventListener('click', function() {
 	let closeModal = document.getElementsByClassName("modal");
 	closeModal[0].style.display='none';

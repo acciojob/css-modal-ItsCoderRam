@@ -17,14 +17,11 @@ h2{
 	line-height:1.6;
 	text-align:center;
 }
-.close-modal{
-	
-}
 .modal-header {
   position: relative;
   /* other styles */
 }
-.close-modal-button {
+.close-modal {
   position: absolute;
   right: 10px;
   /* other styles */
